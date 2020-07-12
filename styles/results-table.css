@@ -1,0 +1,284 @@
+﻿/**
+ * Results Table Event Colours
+**/
+
+.table-astronomical-low-tide
+{
+    text-align:center;
+    background-color:#8A0505;
+}
+
+.table-avalanche{
+    text-align:center;
+    background-color:#053A6F;
+}
+
+.table-blizzard{
+    text-align:center;
+    background-color:#FF9605;
+}
+
+.table-coastal-flood{
+    text-align:center;
+    background-color:#3AD9FF;
+}
+
+.table-cold-wind-chill{
+    text-align:center;
+    background-color:#0505FF;
+}
+
+.table-debris-flow{
+    text-align:center;
+    background-color:#FFFF05;
+}
+
+.table-dense-fog{
+    text-align:center;
+    background-color:#FFA4D9;
+}
+
+.table-dense-smoke{
+    text-align:center;
+    background-color:#FF056F;
+}
+
+.table-drought{
+    text-align:center;
+    background-color:#0505A4;
+}
+
+.table-dust-devil{
+    text-align:center;
+    background-color:#FFA4FF;
+}
+
+.table-dust-storm{
+    text-align:center;
+    background-color:#D93A05;
+}
+
+.table-excessive-heat{
+    text-align:center;
+    background-color:#053AA4;
+}
+
+.table-extreme-cold-wind-chill{
+    text-align:center;
+    background-color:#A43A05;
+}
+
+.table-flash-flood{
+    text-align:center;
+    background-color:#FFA4A4;
+}
+
+.table-flood{
+    text-align:center;
+    background-color:#05FFFF;
+}
+
+.table-freezing-fog{
+    text-align:center;
+    background-color:#056FFF;
+}
+
+.table-frost-freeze{
+    text-align:center;
+    background-color:#05FF05;
+}
+
+.table-funnel-cloud{
+    text-align:center;
+    background-color:#FFE405;
+}
+
+.table-hail{
+    text-align:center;
+    background-color:#A46F05;
+}
+
+.table-heat{
+    text-align:center;
+    background-color:#D905D9;
+}
+
+.table-heavy-rain{
+    text-align:center;
+    background-color:#A40505;
+}
+
+.table-heavy-snow{
+    text-align:center;
+    background-color:#FF5858;
+}
+
+.table-heavy-wind{
+    text-align:center;
+    background-color:#FF6FD9;
+}
+
+.table-high-snow{
+    text-align:center;
+    background-color:#0505D9;
+}
+
+.table-high-surf{
+    text-align:center;
+    background-color:#6F6FFF;
+}
+
+.table-high-wind{
+    text-align:center;
+    background-color:#05D9A4;
+}
+
+.table-hurricane{
+    text-align:center;
+    background-color:#FF3AD9;
+}
+
+.table-ice-storm{
+    text-align:center;
+    background-color:#3AD93A;
+}
+
+.table-lake-effect-snow{
+    text-align:center;
+    background-color:#05D96F;
+}
+
+.table-lakeshore-flood{
+    text-align:center;
+    background-color:#A4053A;
+}
+
+.table-landslide{
+    text-align:center;
+    background-color:#053A05;
+}
+
+.table-lightning{
+    text-align:center;
+    background-color:#FF6FFF;
+}
+
+.table-marine-dense-fog{
+    text-align:center;
+    background-color:#FFB005;
+}
+
+.table-marine-hail{
+    text-align:center;
+    background-color:#FF4D05;
+}
+
+.table-marine-high-wind{
+    text-align:center;
+    background-color:#A4D9FF;
+}
+
+.table-marine-strong-wind{
+    text-align:center;
+    background-color:#A405FF;
+}
+
+.table-marine-thunderstorm-wind{
+    text-align:center;
+    background-color:#D9FF3A;
+}
+
+.table-marine-tropical-storm{
+    text-align:center;
+    background-color:#3A3A05;
+}
+
+.table-northern-lights{
+    text-align:center;
+    background-color:#A405A4;
+}
+
+.table-other{
+    text-align:center;
+    background-color:#FF05FF;
+}
+
+.table-rip-current{
+    text-align:center;
+    background-color:#056FA4;
+}
+
+.table-seiche{
+    text-align:center;
+    background-color:#6FA4FF;
+}
+
+.table-sleet{
+    text-align:center;
+    background-color:#05D9FF;
+}
+
+.table-storm-surge-tide{
+    text-align:center;
+    background-color:#6F05FF;
+}
+
+.table-strong-wind{
+    text-align:center;
+    background-color:#6F3A05;
+}
+
+.table-thunderstorm-wind{
+    text-align:center;
+    background-color:#FF3AA4;
+}
+
+.table-tornado{
+    text-align:center;
+    background-color:#FF0505;
+}
+
+.table-tropical-depression{
+    text-align:center;
+    background-color:#D93AA4;
+}
+
+.table-tropical-storm{
+    text-align:center;
+    background-color:#05A405;
+}
+
+.table-tsunami{
+    text-align:center;
+    background-color:#A405D9;
+}
+
+.table-volcanic-ash{
+    text-align:center;
+    background-color:#6F05D9;
+}
+
+.table-volcanic-ashfall{
+    text-align:center;
+    background-color:#D90505;
+}
+
+.table-waterspout{
+    text-align:center;
+    background-color:#6F056F;
+}
+
+.table-wildfire{
+    text-align:center;
+    background-color:#FF6FA4;
+}
+
+.table-winter-storm{
+    text-align:center;
+    background-color:#05A4A4;
+}
+
+.table-winter-weather{
+    text-align:center;
+    background-color:#3AA4FF;
+}

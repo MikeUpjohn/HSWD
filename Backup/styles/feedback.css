@@ -1,0 +1,47 @@
+﻿#feedback 
+{
+    max-width:40%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:-1.0em;
+}
+
+.rightFormField 
+{
+    float:right;
+    width:500px;
+    font-family:Gill Sans MT, Arial, Sans-Serif;
+}
+
+.rightFormDropDown 
+{
+    float:right;
+    width:150px;
+    font-family:Gill Sans MT, Arial, Sans-Serif;
+    margin-right:355px;
+}
+
+.formRow 
+{
+    clear:both;
+    width:100%;
+    display:inline-block;
+    margin-top:1.0em;
+}
+
+.feedback 
+{
+    float:right;
+    width:500px;
+    height:350px;
+    font-family:Gill Sans MT, Arial, Sans-Serif;
+}
+
+.feedbackFormSubmit 
+{
+    display:block;
+    width:100px;
+    height:50px;
+    margin-left:auto;
+    margin-right:auto; 
+}

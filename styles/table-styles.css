@@ -1,0 +1,46 @@
+﻿table.standard
+{
+    max-width:60%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.validation-errors-red 
+{
+    background-color:#FFCCCC;
+    border:1px solid #FF0000;
+    max-width:70%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:1.0em;
+    padding:10px 10px 10px 10px;
+}
+
+.validation-error-text-red
+{
+    color:#FF0000;
+    display:block;
+    text-align:center;
+}
+
+.validation-errors-green 
+{
+    background-color:#90EE90;
+    border:1px solid #008000;
+    max-width:70%;
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px 10px 10px 10px;
+}
+
+.validation-error-text-green
+{
+    color:#008000;
+    display:block;
+    text-align:center;
+}
+
+.mainContentArea td.center
+{
+    text-align:center;
+}

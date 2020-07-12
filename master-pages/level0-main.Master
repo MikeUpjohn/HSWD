@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="level0-main.Master.cs" Inherits="artefact.master_pages.level0_main" %>
+<!DOCTYPE html>
+<html>
+<head id="Head1" runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="WebPageTitle" runat="server">
+        </asp:ContentPlaceHolder>
+    </title>
+    <asp:ContentPlaceHolder ID="headerLinks" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <aside class='loginBox'>
+            <asp:Button ID="Button_Register" runat="server" Text="Register" 
+            Height="30px" Width="100px" onclick="Button_Register_Click"></asp:Button>
+            <asp:Button ID="Button_SignIn" runat="server" Text="Sign In" Height="30px" 
+            Width="100px" onclick="Button_SignIn_Click"></asp:Button>
+            <asp:Button ID="Button_Logout" runat="server" onclick="Button_Logout_Click" 
+            Text="Logout" Height="30px" Width="100px" />
+        </aside>
+        <asp:ContentPlaceHolder ID="MainHeading" runat="server"></asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="SecondaryHeading" runat="server"></asp:ContentPlaceHolder>
+        <nav class='main'>
+            <a class='home' href='Default.aspx'>
+            </a><a class='us-severe-weather-database' href='us-severe-weather-database/us-severe-weather-database.aspx'>
+            </a><a class='feedback' href="help/Feedback.aspx">
+            </a>
+        </nav>
+        <div class='mainContentArea'>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class='footer'>
+            <small class='left'>&copy; Michael Upjohn 2013 except where stated</small>
+            <nav class='footerNav'>
+                <a href='#'>Help</a> | 
+                <a href='#'>Terms and Conditions</a> | 
+                <a href='#'>Feedback</a> | 
+                <a href='#'>About</a> | 
+                <a href='#'>Contact Information</a>
+            </nav>
+        </div>
+    </form>
+</body>
+</html>

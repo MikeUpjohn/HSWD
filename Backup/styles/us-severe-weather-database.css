@@ -1,0 +1,234 @@
+﻿#dateCriteria, #locationFIPS, #locationCriteria, #eventTypes, #tornadoEventCriteria, #fatalEventCriteria
+{
+    margin-bottom:1.0em;   
+}
+
+#queryContainer 
+{
+    display:inline-block;
+}
+
+#query 
+{
+    float:left;
+    display:inline;
+    border:1px solid #000000;
+    height:inherit;
+    padding:10px 10px 10px 10px;
+    width:350px;
+}
+
+#map 
+{
+    display:inline-block;
+    float:left;
+    height:750px;
+    margin-right:10px;
+    border:1px solid #000000;
+    margin-bottom:10px;
+    width:1000px;
+}
+
+#statistics 
+{
+    clear:both;
+    display:block;
+    width:1000px;
+    border:1px solid #000000;
+}
+
+.resultsTable 
+{
+    display:inline-block;
+    width:1300px;
+   
+    margin-top:10px;
+    border-collapse:collapse;
+}
+
+#query h4 
+{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.twoDigit
+{
+    width:20px;
+    text-align:center;
+}
+
+.fourDigit 
+{
+    width:40px;
+    text-align:center;
+}
+
+.centeredQueryTable 
+{
+    max-width:100%;
+    margin-left:auto;
+    margin-right:auto;   
+}
+
+.centeredQueryTable td 
+{
+    width:100px;
+}
+
+.centeredLabel 
+{
+    text-align:center;
+}
+
+.stateFIPSCode 
+{
+    display:block;
+    width:80px;
+    height:20px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+.countyFIPSCode 
+{
+    display:block;
+    width:80px;
+    height:20px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+#eventTypes 
+{
+    display:inline-block;
+    width:400px;
+}
+
+#leftColumn 
+{
+    width:46%;
+    height:650px;
+    float:left;
+    padding:2% 2% 2% 2%;
+}
+
+#rightColumn 
+{
+    width:46%;
+    height:650px;
+    float:right;
+    padding:2% 2% 2% 2%;
+}
+
+.checkBox_SmallText 
+{
+    font-size:0.8em;   
+}
+
+#results 
+{
+    float:left;
+}
+
+#runQuery 
+{
+    margin-top:1.0em;
+    display:block;
+    text-align:center;
+}
+
+#run 
+{
+    float:left;
+    width:50%;
+}
+
+#export 
+{
+    float:right;
+    width:50%;
+}
+
+.runQuery 
+{
+    width:90%;
+    height:70px;   
+}
+
+.exportResults, .exportStatistics 
+{
+    width:90%;
+    height:30px;   
+}
+
+.exportResults 
+{
+    margin-top:5px;
+    margin-bottom:3px;
+}
+
+/**
+  * Data Statistics
+**/
+.statisticsTable 
+{
+    width:100%;
+    font-size:0.8em;    
+}
+
+.statisticsTable tr.spacerRow 
+{
+    height:20px;
+}
+
+/**
+  * Results Table
+**/
+.resultsTable th, .resultsTable td
+{
+    border:1px solid #000000;
+    padding:5px 5px 5px 5px;
+}
+
+.resultsTable th 
+{
+    background-color:#D0D0D0;
+}
+
+.resultsTable .eventNumber 
+{
+    width:70px;
+    text-align:center;
+}
+
+.resultsTable .dateTime 
+{
+    width:130px;
+    text-align:center;
+}
+
+.resultsTable .state 
+{
+    width:130px;
+    text-align:center;
+}
+
+.resultsTable .county 
+{
+    width:150px;
+    text-align:center;
+}
+
+.resultsTable .eventType 
+{
+    width:180px;
+    text-align:center;
+}
+
+.resultsTable .eventDescription 
+{
+    width:640px;
+}
